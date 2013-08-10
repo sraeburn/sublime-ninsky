@@ -12,7 +12,7 @@
         <!-- ============ -->
         <!-- Your HTML    -->
         <!-- ============ -->
-        <div>Hello, world!</div>
+        <div>$2{Hello, world!}</div>
 
         <!-- ============ -->
         <!-- Templates    -->
